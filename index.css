@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #222;
+    color: white;
+    text-align: center;
+}
+
+input {
+    width: 80%;
+    padding: 10px;
+    margin: 20px 0;
+}
+
+.movie {
+    display: flex;
+    align-items: center;
+    background: #333;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+.movie-info {
+    text-align: left;
+}
